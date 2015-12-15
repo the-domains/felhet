@@ -1,0 +1,28 @@
+name: Félhét
+favicon: null
+layout_spectrum: 0.447468371829018
+typography_spectrum: 0.6322264261543751
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6334415250457823
+  lightness: 0.990866941632703
+  saturation: 0.16112986532971263
+  rhythmicContrast: 0.37734759296290576
+purpose: []
